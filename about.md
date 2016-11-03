@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="/asserts/static/foto.jpg" alt="Фото"  align="left"/> Меня зовут Кондрашев Сергей. Живу я в Санкт-Петрбурге. В настоящее время работаю  инженером-программистом на предприятии занимающемся разработкой приборов для самолетов. На работе я пишу на С. В свободное время постоянно изучаю что-то новое. Ковыряю Linux. Люблю Python. Подтягиваю свой English.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+В блоге пишу в основном о программировании и на связанные с ним темы, а иногда и просто о жизни программистской.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Связаться со мной можно, написав на email: [kserg90@gmail.com](mailto:kserg90@gmail.com)
