@@ -23,6 +23,7 @@ url: "http://evnotes.ru" # the base hostname & protocol for your site, e.g. http
 github_username:  dudd1ts
 author: Сергей Кондрашев
 paginate: 10
+excerpt_separator: "<!--more-->"
 
 # Build settings
 markdown: kramdown
