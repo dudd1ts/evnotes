@@ -8,4 +8,5 @@ permalink: /about/
 
 В блоге пишу в основном о программировании и на связанные с ним темы, а иногда и просто о жизни программистской.
 
-Связаться со мной можно, написав на email: [kserg90@gmail.com](mailto:kserg90@gmail.com)
+Найти меня можно на [хабре](https://habrahabr.ru/users/duddits/), [моём круге](https://moikrug.ru/sergeykondrashev) и [github](https://github.com/dudd1ts).  
+Связаться, написав на email: [kserg90@gmail.com](mailto:kserg90@gmail.com)
